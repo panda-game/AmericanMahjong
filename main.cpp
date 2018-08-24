@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     const int NUMTILE = 152; //　全体の牌の数
+#
     
 //    char num_player;
 //    cout << "プレイの人数を選択してください(A: 3人　B:4人): ";
